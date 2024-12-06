@@ -9,7 +9,7 @@ The most important features of the site
 3. It contains various courses.
 4. It has a team of professional educators
  
- ** Pathway to learning success. **
+ **Pathway to learning success.**
  
 
  [KnowledgePath][www.KnowledgePath.com]
