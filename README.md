@@ -1,6 +1,6 @@
 # my-first-task
 
-##Welcome to Our Website
+## Welcome to Our Website
 An educational site with the best courses .
 
 The most important features of the site
@@ -9,7 +9,7 @@ The most important features of the site
 3. It contains various courses.
 4. It has a team of professional educators
  
- **Pathway to learning success.**
+ ** Pathway to learning success. **
  
 
- [KnowledgePath][https://www.KnowledgePath.com]
+ [KnowledgePath][www.KnowledgePath.com]
