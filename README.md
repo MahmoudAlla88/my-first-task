@@ -12,4 +12,4 @@ The most important features of the site
  **Pathway to learning success.**
  
 
- [KnowledgePath][www.KnowledgePath.com]
+ [figma][https://www.figma.com/design/CASfGHsSDhFN5qF5yyKnuL/school-system?node-id=1010169-446&node-type=canvas&t=x1QI6OyJTYWzhHuM-0]
